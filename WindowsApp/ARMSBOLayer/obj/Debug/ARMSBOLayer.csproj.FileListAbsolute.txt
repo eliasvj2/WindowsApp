@@ -1,0 +1,9 @@
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\obj\Debug\ARMSBOLayer.csproj.AssemblyReference.cache
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\obj\Debug\ARMSBOLayer.csproj.CoreCompileInputs.cache
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\bin\Debug\ARMSBOLayer.dll
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\bin\Debug\ARMSBOLayer.pdb
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\bin\Debug\ARMSDALayer.dll
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\bin\Debug\ARMSDALayer.pdb
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\obj\Debug\ARMSBOLayer.csproj.CopyComplete
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\obj\Debug\ARMSBOLayer.dll
+C:\Users\evilo\source\repos\ARMS\ARMSBOLayer\obj\Debug\ARMSBOLayer.pdb

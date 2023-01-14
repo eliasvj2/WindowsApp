@@ -1,0 +1,6 @@
+C:\Users\evilo\source\repos\ARMS\ARMSDALayer\bin\Debug\ARMSDALayer.dll
+C:\Users\evilo\source\repos\ARMS\ARMSDALayer\bin\Debug\ARMSDALayer.pdb
+C:\Users\evilo\source\repos\ARMS\ARMSDALayer\obj\Debug\ARMSDALayer.csproj.AssemblyReference.cache
+C:\Users\evilo\source\repos\ARMS\ARMSDALayer\obj\Debug\ARMSDALayer.csproj.CoreCompileInputs.cache
+C:\Users\evilo\source\repos\ARMS\ARMSDALayer\obj\Debug\ARMSDALayer.dll
+C:\Users\evilo\source\repos\ARMS\ARMSDALayer\obj\Debug\ARMSDALayer.pdb

@@ -1,0 +1,408 @@
+Credit Card Information: 
+Credit Card Number =  
+Credit Card Owner Name =  
+Credit Card Issuing Company =  
+Credit Merchant Code = 0 
+Expiration Date = 1/1/0001 12:00:00 AM 
+AddressLine1 =  
+AddressLine2 =  
+City =  
+State Code =  
+Zip Code =  
+Country =  
+Credit Card Limit = 3000.0 
+Credit Card Balance = 3000.0 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 4111111111111111 
+Credit Card Owner Name = lui segura 
+Credit Card Issuing Company = Visa 
+Credit Merchant Code = 1 
+Expiration Date = 12/12/2022 12:00:00 AM 
+AddressLine1 = 123 abytt street 
+AddressLine2 =  
+City = Mahattan 
+State Code = AZ 
+Zip Code = 15698 
+Country = USA 
+Credit Card Limit = 120000.000 
+Credit Card Balance = 5000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 8111111111111111 
+Credit Card Owner Name = Lioner 
+Credit Card Issuing Company = Visa 
+Credit Merchant Code = 1 
+Expiration Date = 6/22/2022 12:00:00 AM 
+AddressLine1 = 123 abytt street 
+AddressLine2 =  
+City = pupil 
+State Code = AZ 
+Zip Code = 15698 
+Country = USA 
+Credit Card Limit = 120000.000 
+Credit Card Balance = 5000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 5141111111111111 
+Credit Card Owner Name = asf 
+Credit Card Issuing Company = sf 
+Credit Merchant Code = 5 
+Expiration Date = 12/25/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asfd 
+City = sadf 
+State Code = AL 
+Zip Code = 14265 
+Country = AALAND ISLANDS 
+Credit Card Limit = 3000.000 
+Credit Card Balance = 3000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 6111111111111111 
+Credit Card Owner Name = Kanan 
+Credit Card Issuing Company = MasterCard 
+Credit Merchant Code = 5 
+Expiration Date = 12/12/2025 12:00:00 AM 
+AddressLine1 = 123 fortaleza street 
+AddressLine2 =  
+City = cotton 
+State Code = MD 
+Zip Code = 15698 
+Country = USA 
+Credit Card Limit = 120000.000 
+Credit Card Balance = 15000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 6211111111111111 
+Credit Card Owner Name = Juan gonzalez 
+Credit Card Issuing Company = master card 
+Credit Merchant Code = 6 
+Expiration Date = 6/17/2009 12:00:00 AM 
+AddressLine1 = 123 cambridge street 
+AddressLine2 =  
+City = alburquelque 
+State Code = AZ 
+Zip Code = 14353 
+Country = AALAND ISLANDS 
+Credit Card Limit = 233000.000 
+Credit Card Balance = 3040044.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 6711111141111118 
+Credit Card Owner Name = calors ruiz 
+Credit Card Issuing Company = visa 
+Credit Merchant Code = 1 
+Expiration Date = 12/13/2022 12:00:00 AM 
+AddressLine1 = 123 hollywood street 
+AddressLine2 =  
+City = los angeles 
+State Code = CA 
+Zip Code = 24167 
+Country = UNITED STATES 
+Credit Card Limit = 3000.000 
+Credit Card Balance = 3000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 6711111141111118 
+Credit Card Owner Name = calors ruiz 
+Credit Card Issuing Company = visa 
+Credit Merchant Code = 1 
+Expiration Date = 12/13/2022 12:00:00 AM 
+AddressLine1 = 123 hollywood street 
+AddressLine2 =  
+City = los angeles 
+State Code = CA 
+Zip Code = 24167 
+Country = UNITED STATES 
+Credit Card Limit = 3000.000 
+Credit Card Balance = 3000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 5111111811111111 
+Credit Card Owner Name = joe doe 
+Credit Card Issuing Company = siva 
+Credit Merchant Code = 1 
+Expiration Date = 12/16/2022 6:06:51 PM 
+AddressLine1 = 123 hollywood street 
+AddressLine2 =  
+City = bronx 
+State Code = NY 
+Zip Code = 24635 
+Country = UNITED STATES 
+Credit Card Limit = 3000.000 
+Credit Card Balance = 3000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 5111111111111145 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asdf 
+Credit Merchant Code = 6 
+Expiration Date = 12/15/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = AL 
+Zip Code = 24356 
+Country = AALAND ISLANDS 
+Credit Card Limit = 3000.000 
+Credit Card Balance = 3000.000 
+Activation Status = False 
+
+
+Credit Card Information: 
+Credit Card Number = 4111111111111199 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asfd 
+Credit Merchant Code = 1 
+Expiration Date = 1/27/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = MP 
+Zip Code = 14256 
+Country = BOSNIA AND HERZEGOWINA 
+Credit Card Limit = 324000.000 
+Credit Card Balance = 300024.000 
+Activation Status = False 
+
+
+Credit Card Information: 
+Credit Card Number =  
+Credit Card Owner Name =  
+Credit Card Issuing Company =  
+Credit Merchant Code = 0 
+Expiration Date = 1/1/0001 12:00:00 AM 
+AddressLine1 =  
+AddressLine2 =  
+City =  
+State Code =  
+Zip Code =  
+Country =  
+Credit Card Limit = 3000.0 
+Credit Card Balance = 3000.0 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number =  
+Credit Card Owner Name =  
+Credit Card Issuing Company =  
+Credit Merchant Code = 0 
+Expiration Date = 1/1/0001 12:00:00 AM 
+AddressLine1 =  
+AddressLine2 =  
+City =  
+State Code =  
+Zip Code =  
+Country =  
+Credit Card Limit = 3000.0 
+Credit Card Balance = 3000.0 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 4111111111111199 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asfd 
+Credit Merchant Code = 1 
+Expiration Date = 1/27/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = MP 
+Zip Code = 14256 
+Country = BOSNIA AND HERZEGOWINA 
+Credit Card Limit = 324000.000 
+Credit Card Balance = 300024.000 
+Activation Status = False 
+
+
+Credit Card Information: 
+Credit Card Number = 4111111111111199 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asfd 
+Credit Merchant Code = 1 
+Expiration Date = 1/27/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = MP 
+Zip Code = 14256 
+Country = BOSNIA AND HERZEGOWINA 
+Credit Card Limit = 324000.000 
+Credit Card Balance = 300024.000 
+Activation Status = False 
+
+
+Credit Card Information: 
+Credit Card Number = 4111111111111199 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asfd 
+Credit Merchant Code = 1 
+Expiration Date = 1/27/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = MP 
+Zip Code = 14256 
+Country = BOSNIA AND HERZEGOWINA 
+Credit Card Limit = 324000.000 
+Credit Card Balance = 300024.000 
+Activation Status = False 
+
+
+Credit Card Information: 
+Credit Card Number = 4111111111111199 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asfd 
+Credit Merchant Code = 1 
+Expiration Date = 1/27/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = MP 
+Zip Code = 14256 
+Country = BOSNIA AND HERZEGOWINA 
+Credit Card Limit = 324000.000 
+Credit Card Balance = 300024.000 
+Activation Status = False 
+
+
+Credit Card Information: 
+Credit Card Number = 4144111111111199 
+Credit Card Owner Name = asfd 
+Credit Card Issuing Company = asdf 
+Credit Merchant Code = 1 
+Expiration Date = 12/26/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asf 
+State Code = MI 
+Zip Code = 25367 
+Country = BELIZE 
+Credit Card Limit = 23543000.000 
+Credit Card Balance = 23453000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 4144111111111199 
+Credit Card Owner Name = asfd 
+Credit Card Issuing Company = asdf 
+Credit Merchant Code = 1 
+Expiration Date = 12/26/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asf 
+State Code = MI 
+Zip Code = 25367 
+Country = BELIZE 
+Credit Card Limit = 23543000.000 
+Credit Card Balance = 23453000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 4144111111111199 
+Credit Card Owner Name = asfd 
+Credit Card Issuing Company = asdf 
+Credit Merchant Code = 1 
+Expiration Date = 12/26/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asf 
+State Code = MI 
+Zip Code = 25367 
+Country = BELIZE 
+Credit Card Limit = 23543000.000 
+Credit Card Balance = 23453000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 4144111111111199 
+Credit Card Owner Name = asfd 
+Credit Card Issuing Company = asdf 
+Credit Merchant Code = 1 
+Expiration Date = 12/26/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asf 
+State Code = MI 
+Zip Code = 25367 
+Country = BELIZE 
+Credit Card Limit = 23543000.000 
+Credit Card Balance = 23453000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 5111111111112111 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asdf 
+Credit Merchant Code = 1 
+Expiration Date = 6/11/2024 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asf 
+City = asdf 
+State Code = MS 
+Zip Code = 25367 
+Country = BOLIVIA 
+Credit Card Limit = 3000234.000 
+Credit Card Balance = 3000234.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 6111111174111111 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asf 
+Credit Merchant Code = 1 
+Expiration Date = 1/20/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = MI 
+Zip Code = 23578 
+Country = BOLIVIA 
+Credit Card Limit = 3000.000 
+Credit Card Balance = 3000.000 
+Activation Status = True 
+
+
+Credit Card Information: 
+Credit Card Number = 6111111174111111 
+Credit Card Owner Name = asdf 
+Credit Card Issuing Company = asf 
+Credit Merchant Code = 1 
+Expiration Date = 1/20/2022 12:00:00 AM 
+AddressLine1 = asdf 
+AddressLine2 = asdf 
+City = asdf 
+State Code = MI 
+Zip Code = 23578 
+Country = BOLIVIA 
+Credit Card Limit = 3000.000 
+Credit Card Balance = 3000.000 
+Activation Status = True 
+
+
